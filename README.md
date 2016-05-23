@@ -1,2 +1,2 @@
-# makam-score-structure-analysis-experiments
+# otmm-score-structure-experiments
 Structure Analysis Experiments on Ottoman-Turkish Makam Music Scores
