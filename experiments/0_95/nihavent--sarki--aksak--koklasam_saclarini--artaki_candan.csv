@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	72	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+73	143	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+144	179	VOCAL_SECTION	B1	B1	Koklasam saçlarını bu gece tâ fecre kadar  	VOCAL_SECTION
+180	213	VOCAL_SECTION	C1	B1	Koklasam saçlarını bu gece tâ fecre kadar  	VOCAL_SECTION
+214	257	VOCAL_SECTION	D1	C1	Acı duysam gözünün rengine dalsam da senin  	VOCAL_SECTION
+258	301	VOCAL_SECTION	E1	C1	Acı duysam gözünün rengine dalsam da senin  	VOCAL_SECTION
+302	341	VOCAL_SECTION	F1	D1	Kanatır ruhumu mâzîde kalan hatıralar  	VOCAL_SECTION
+342	387	VOCAL_SECTION	G1	D1	Kanatır ruhumu mâzîde kalan hatıralar  	VOCAL_SECTION
+388	431	VOCAL_SECTION	H1	E1	Doyamam ömrüme ben kalbini çalsam da senin  	VOCAL_SECTION
+432	470	VOCAL_SECTION	I1	E1	Doyamam ömrüme ben kalbini çalsam da senin  	VOCAL_SECTION

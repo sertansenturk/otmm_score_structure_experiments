@@ -1,0 +1,10 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	63	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+64	125	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+126	184	VOCAL_SECTION	BC1	B1	Gittin bıraktın bıraktın beni gurbet ellerde beni gurbet ellerde  	VOCAL_SECTION
+185	243	VOCAL_SECTION	BC2	B1	Gittin bıraktın bıraktın beni gurbet ellerde beni gurbet ellerde  	VOCAL_SECTION
+244	278	VOCAL_SECTION	ABC1	B2	Adım Mecnûn oldu Mecnûn gezer dillerde dillerde  	VOCAL_SECTION
+279	319	VOCAL_SECTION	D1	B2	Adım Mecnûn oldu Mecnûn gezer dillerde dillerde  	VOCAL_SECTION
+320	381	VOCAL_SECTION	C1	C1	Bülbül susmuş susmuş bülbül renk kalmamış seherde renk kalmamış seherde  	VOCAL_SECTION
+382	416	VOCAL_SECTION	ABC1	B2	Adım Mecnûn oldu Mecnûn gezer dillerde dillerde  	VOCAL_SECTION
+417	442	VOCAL_SECTION	AD1	B2	Adım Mecnûn oldu Mecnûn gezer dillerde dillerde  	VOCAL_SECTION

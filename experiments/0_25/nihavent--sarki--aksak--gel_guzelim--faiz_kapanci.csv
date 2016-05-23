@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	65	ARANAĞME	ABC1	INSTRUMENTAL		ARANAGME
+66	129	ARANAĞME	ABC1	INSTRUMENTAL		ARANAGME
+130	161	VOCAL_SECTION	BD1	B1	Gel güzelim Çamlıcaya bu gece  	VOCAL_SECTION
+162	191	VOCAL_SECTION	DE1	B1	Gel güzelim Çamlıcaya bu gece  	VOCAL_SECTION
+192	217	VOCAL_SECTION	CF1	C1	Gün doğmadan a canım görüşelim gizlice  	VOCAL_SECTION
+218	244	VOCAL_SECTION	G1	C1	Gün doğmadan a canım görüşelim gizlice  	VOCAL_SECTION
+245	275	VOCAL_SECTION	D1	C2	Bülbüllerin efganını dinleyelim yanyana  	VOCAL_SECTION
+276	308	VOCAL_SECTION	EH1	C2	Bülbüllerin efganını dinleyelim yanyana  	VOCAL_SECTION
+309	333	VOCAL_SECTION	FH1	C3	Kumru gibi a canım sevişelim can cana  	VOCAL_SECTION
+334	359	VOCAL_SECTION	AG1	C3	Kumru gibi a canım sevişelim can cana  	VOCAL_SECTION

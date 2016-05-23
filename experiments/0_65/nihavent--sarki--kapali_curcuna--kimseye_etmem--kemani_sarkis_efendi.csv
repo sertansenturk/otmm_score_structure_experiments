@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	57	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+58	113	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+114	146	VOCAL_SECTION	B1	B1	Kimseye etmem şikâyet ağlarım ben halime  	VOCAL_SECTION
+147	179	VOCAL_SECTION	B2	B1	Kimseye etmem şikâyet ağlarım ben halime  	VOCAL_SECTION
+180	221	VOCAL_SECTION	C1	C1	Titrerim mücrim gibi baktıkça istikbalime  	VOCAL_SECTION
+222	265	VOCAL_SECTION	C2	C1	Titrerim mücrim gibi baktıkça istikbalime  	VOCAL_SECTION
+266	310	VOCAL_SECTION	D1	D1	Perde i zulmet çekilmiş korkarım ikbalime  	VOCAL_SECTION
+311	350	VOCAL_SECTION	D2	D1	Perde i zulmet çekilmiş korkarım ikbalime  	VOCAL_SECTION
+351	392	VOCAL_SECTION	C1	C1	Titrerim mücrim gibi baktıkça istikbalime  	VOCAL_SECTION
+393	428	VOCAL_SECTION	C3	C1	Titrerim mücrim gibi baktıkça istikbalime  	VOCAL_SECTION

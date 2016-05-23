@@ -1,0 +1,9 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	36	VOCAL_SECTION	A1	A1	Akşam oldu hüzünlendim ben yine  	VOCAL_SECTION
+37	68	VOCAL_SECTION	B1	A1	Akşam oldu hüzünlendim ben yine  	VOCAL_SECTION
+69	97	VOCAL_SECTION	C1	B1	Hasret kaldım gözlerinin rengine ah  	VOCAL_SECTION
+98	128	VOCAL_SECTION	D1	C1	Hasret kaldım gözlerinin rengine  	VOCAL_SECTION
+129	152	VOCAL_SECTION	E1	D1	Gel mehtabım gel sevgilim gel yine  	VOCAL_SECTION
+153	176	VOCAL_SECTION	F1	D1	Gel mehtabım gel sevgilim gel yine  	VOCAL_SECTION
+177	205	VOCAL_SECTION	C1	B1	Hasret kaldım gözlerinin rengine ah  	VOCAL_SECTION
+206	228	VOCAL_SECTION	G1	C1	Hasret kaldım gözlerinin rengine  	VOCAL_SECTION

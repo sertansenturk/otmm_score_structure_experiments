@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	68	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+69	135	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+136	176	VOCAL_SECTION	B1	B1	Gözümde hep gül yüzün gülistan oldu cihan gülistan oldu cihan  	VOCAL_SECTION
+177	213	VOCAL_SECTION	B2	B1	Gözümde hep gül yüzün gülistan oldu cihan gülistan oldu cihan  	VOCAL_SECTION
+214	250	VOCAL_SECTION	C1	C1	Mevsimler bahar oldu ne kış kaldı ne hazan ne kış kaldı ne hazan  	VOCAL_SECTION
+251	289	VOCAL_SECTION	C2	C1	Mevsimler bahar oldu ne kış kaldı ne hazan ne kış kaldı ne hazan  	VOCAL_SECTION
+290	331	VOCAL_SECTION	D1	D1	Bahtiyar olur musun murâda erer misin murâda erer misin  	VOCAL_SECTION
+332	371	VOCAL_SECTION	D2	D1	Bahtiyar olur musun murâda erer misin murâda erer misin  	VOCAL_SECTION
+372	408	VOCAL_SECTION	C1	C1	Mevsimler bahar oldu ne kış kaldı ne hazan ne kış kaldı ne hazan  	VOCAL_SECTION
+409	441	VOCAL_SECTION	C3	C1	Mevsimler bahar oldu ne kış kaldı ne hazan ne kış kaldı ne hazan  	VOCAL_SECTION

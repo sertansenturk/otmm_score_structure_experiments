@@ -1,0 +1,16 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	64	ARANAĞME	ABC1	INSTRUMENTAL		ARANAGME
+65	104	VOCAL_SECTION	ACD1	BC1	Sen hangi telin nağmesi sandın ki bu bağrım  	VOCAL_SECTION
+105	138	VOCAL_SECTION	AC1	BC1	Sen hangi telin nağmesi sandın ki bu bağrım  	VOCAL_SECTION
+139	178	VOCAL_SECTION	ACD1	BC1	Sen hangi telin nağmesi sandın ki bu bağrım  	VOCAL_SECTION
+179	212	VOCAL_SECTION	AD1	BC1	Sen hangi telin nağmesi sandın ki bu bağrım  	VOCAL_SECTION
+213	238	VOCAL_SECTION	E1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION
+239	275	VOCAL_SECTION	B1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION
+276	301	VOCAL_SECTION	E1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION
+302	338	VOCAL_SECTION	B2	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION
+339	372	VOCAL_SECTION	F1	B1	İnletme bırak bilmediğin sanki ne kaldı  	VOCAL_SECTION
+373	405	VOCAL_SECTION	F2	B1	İnletme bırak bilmediğin sanki ne kaldı  	VOCAL_SECTION
+406	439	VOCAL_SECTION	F1	B1	İnletme bırak bilmediğin sanki ne kaldı  	VOCAL_SECTION
+440	472	VOCAL_SECTION	DF1	B1	İnletme bırak bilmediğin sanki ne kaldı  	VOCAL_SECTION
+473	498	VOCAL_SECTION	E1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION
+499	528	VOCAL_SECTION	BC1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	VOCAL_SECTION

@@ -1,0 +1,9 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	61	VOCAL_SECTION	A1	A1	Ezelden âşinânım ben ezelden hemzebânımsın  	VOCAL_SECTION
+62	122	VOCAL_SECTION	B1	A1	Ezelden âşinânım ben ezelden hemzebânımsın  	VOCAL_SECTION
+123	181	VOCAL_SECTION	C1	B1	Beraber ahde bağlandık ne olsa yâr_i cânımsın  	VOCAL_SECTION
+182	240	VOCAL_SECTION	D1	B1	Beraber ahde bağlandık ne olsa yâr_i cânımsın  	VOCAL_SECTION
+241	289	VOCAL_SECTION	E1	C1	Ne olsan zerrenim kalbimde hâlâ çarpar esrârın  	VOCAL_SECTION
+290	339	VOCAL_SECTION	F1	C1	Ne olsan zerrenim kalbimde hâlâ çarpar esrârın  	VOCAL_SECTION
+340	398	VOCAL_SECTION	C1	B1	Beraber ahde bağlandık ne olsa yâr_i cânımsın  	VOCAL_SECTION
+399	449	VOCAL_SECTION	G1	B1	Beraber ahde bağlandık ne olsa yâr_i cânımsın  	VOCAL_SECTION

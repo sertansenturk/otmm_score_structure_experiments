@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	55	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+56	109	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+110	145	VOCAL_SECTION	B1	B1	Mânî oluyor halimi takrîre hicâbım  	VOCAL_SECTION
+146	181	VOCAL_SECTION	BC1	B1	Mânî oluyor halimi takrîre hicâbım  	VOCAL_SECTION
+182	211	VOCAL_SECTION	D1	C1	Üzme yetişir üzme firâkınla harâbım  	VOCAL_SECTION
+212	244	VOCAL_SECTION	E1	C1	Üzme yetişir üzme firâkınla harâbım  	VOCAL_SECTION
+245	278	VOCAL_SECTION	F1	B2	Mahvoldu sükûnum beni terkeyledi hâbım  	VOCAL_SECTION
+279	311	VOCAL_SECTION	CF1	B2	Mahvoldu sükûnum beni terkeyledi hâbım  	VOCAL_SECTION
+312	341	VOCAL_SECTION	D1	C1	Üzme yetişir üzme firâkınla harâbım  	VOCAL_SECTION
+342	375	VOCAL_SECTION	ADE1	C1	Üzme yetişir üzme firâkınla harâbım  	VOCAL_SECTION

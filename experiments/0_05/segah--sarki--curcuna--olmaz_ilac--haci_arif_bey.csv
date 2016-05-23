@@ -1,0 +1,21 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	35	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+36	69	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+70	87	VOCAL_SECTION	A1	B1	Olmaz ilaç sîne isadpâreme  	VOCAL_SECTION
+88	108	VOCAL_SECTION	AB2	B1	Olmaz ilaç sîne isadpâreme  	VOCAL_SECTION
+109	131	VOCAL_SECTION	B1	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+132	158	VOCAL_SECTION	ABC1	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+159	176	VOCAL_SECTION	C1	B3	Baksa tabîbân_ı cihan çareme  	VOCAL_SECTION
+177	203	VOCAL_SECTION	BC1	B3	Baksa tabîbân_ı cihan çareme  	VOCAL_SECTION
+204	226	VOCAL_SECTION	B2	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+227	246	VOCAL_SECTION	AB3	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+247	280	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+281	314	ARANAĞME	AB1	INSTRUMENTAL		ARANAGME
+315	332	VOCAL_SECTION	A1	B1	Olmaz ilaç sîne isadpâreme  	VOCAL_SECTION
+333	353	VOCAL_SECTION	AB2	B1	Olmaz ilaç sîne isadpâreme  	VOCAL_SECTION
+354	376	VOCAL_SECTION	B1	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+377	403	VOCAL_SECTION	ABC1	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+404	421	VOCAL_SECTION	C1	B3	Baksa tabîbân_ı cihan çareme  	VOCAL_SECTION
+422	448	VOCAL_SECTION	BC1	B3	Baksa tabîbân_ı cihan çareme  	VOCAL_SECTION
+449	471	VOCAL_SECTION	B2	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION
+472	491	VOCAL_SECTION	AB3	B2	Çare bulunmaz bilirim yareme  	VOCAL_SECTION

@@ -1,0 +1,9 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	65	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+66	129	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+130	198	VOCAL_SECTION	B1	B1	Ne bahar kaldı ne gül ah ne de bülbül sesi var  	VOCAL_SECTION
+199	285	VOCAL_SECTION	C1	CD1	Ne o cânân ne bir_ümmid ne gönül neş'esi var  	VOCAL_SECTION
+286	371	VOCAL_SECTION	C2	C1	Ne o cânân ne bir_ümmid ne gönül neş'esi  	VOCAL_SECTION
+372	411	VOCAL_SECTION	D1	E1	Çekecek bence hayatın daha bilmem nesi var aman aman  	VOCAL_SECTION
+412	443	VOCAL_SECTION	E1	F1	Ne o cânân ne bir ümmid ne gönül neş'esi var aman aman  	VOCAL_SECTION
+444	529	VOCAL_SECTION	F1	D1	Ne o cânân ne bir ümmid ne gönül neş'esi var  	VOCAL_SECTION

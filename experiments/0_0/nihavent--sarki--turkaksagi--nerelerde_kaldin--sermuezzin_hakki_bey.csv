@@ -1,0 +1,10 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	92	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+93	120	VOCAL_SECTION	A2	A2	Nerelerde kaldın ey servinâzım  	VOCAL_SECTION
+121	145	VOCAL_SECTION	A3	A2	Nerelerde kaldın ey servinâzım  	VOCAL_SECTION
+146	176	VOCAL_SECTION	A4	A3	Bana bir haber ver budur niyazım  	VOCAL_SECTION
+177	203	VOCAL_SECTION	A5	A3	Bana bir haber ver budur niyazım  	VOCAL_SECTION
+204	224	VOCAL_SECTION	A6	A4	Hasretinden acep ölmek mi lâzım  	VOCAL_SECTION
+225	254	VOCAL_SECTION	A7	A4	Hasretinden acep ölmek mi lâzım  	VOCAL_SECTION
+255	285	VOCAL_SECTION	A4	A3	Bana bir haber ver budur niyazım  	VOCAL_SECTION
+286	312	VOCAL_SECTION	A5	A3	Bana bir haber ver budur niyazım  	VOCAL_SECTION

@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	59	ARANAĞME	ABCD1	INSTRUMENTAL		ARANAGME
+60	117	ARANAĞME	ABCD1	INSTRUMENTAL		ARANAGME
+118	143	VOCAL_SECTION	AB1	B1	Gülşen_i hüsnüne kimler varıyor  	VOCAL_SECTION
+144	172	VOCAL_SECTION	AB2	B1	Gülşen_i hüsnüne kimler varıyor  	VOCAL_SECTION
+173	201	VOCAL_SECTION	ABCD2	B2	Kim_ayağın_öperek yalvarıyor  	VOCAL_SECTION
+202	233	VOCAL_SECTION	AC1	B2	Kim_ayağın_öperek yalvarıyor  	VOCAL_SECTION
+234	257	VOCAL_SECTION	CD1	B3	Bağrımı şâne gibi kim yarıyor  	VOCAL_SECTION
+258	287	VOCAL_SECTION	BD1	B3	Bağrımı şâne gibi kim yarıyor  	VOCAL_SECTION
+288	316	VOCAL_SECTION	ABCD2	B2	Kim_ayağın_öperek yalvarıyor  	VOCAL_SECTION
+317	342	VOCAL_SECTION	ABCD3	B2	Kim_ayağın_öperek yalvarıyor  	VOCAL_SECTION

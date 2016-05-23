@@ -1,0 +1,9 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	44	VOCAL_SECTION	A1	A1	Dûçâr_ı hicr_i yâr_olalı dîdem_ağlıyor  	VOCAL_SECTION
+45	89	VOCAL_SECTION	A2	A1	Dûçâr_ı hicr_i yâr_olalı dîdem_ağlıyor  	VOCAL_SECTION
+90	134	VOCAL_SECTION	A3	A2	Dîdemle müşterek dil_i gam dîdem_ağlıyor  	VOCAL_SECTION
+135	176	VOCAL_SECTION	A4	A2	Dîdemle müşterek dil_i gam dîdem_ağlıyor  	VOCAL_SECTION
+177	218	VOCAL_SECTION	A5	A3	Bu hale hem de mehveş_i nâdîdem_ağlıyor  	VOCAL_SECTION
+219	263	VOCAL_SECTION	A6	A3	Bu hale hem de mehveş_i nâdîdem_ağlıyor  	VOCAL_SECTION
+264	308	VOCAL_SECTION	A3	A2	Dîdemle müşterek dil_i gam dîdem_ağlıyor  	VOCAL_SECTION
+309	346	VOCAL_SECTION	A7	A2	Dîdemle müşterek dil_i gam dîdem_ağlıyor  	VOCAL_SECTION

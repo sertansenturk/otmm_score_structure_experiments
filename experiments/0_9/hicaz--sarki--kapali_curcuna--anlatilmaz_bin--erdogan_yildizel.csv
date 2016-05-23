@@ -1,0 +1,7 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	69	VOCAL_SECTION	A1	A1	Anlatılmaz bin derd_ile geçiyor çileli ömrüm  	VOCAL_SECTION
+70	139	VOCAL_SECTION	B1	A1	Anlatılmaz bin derd_ile geçiyor çileli ömrüm  	VOCAL_SECTION
+140	212	VOCAL_SECTION	C1	B1	Bir vefâsız kederinden eriyor garip gönlüm  	VOCAL_SECTION
+213	284	VOCAL_SECTION	C2	B1	Bir vefâsız kederinden eriyor garip gönlüm  	VOCAL_SECTION
+285	351	VOCAL_SECTION	D1	C1	Şu simsiyah geceler mi acep ben mi öksüzüm  	VOCAL_SECTION
+352	404	VOCAL_SECTION	E1	B1	Bir vefâsız kederinden eriyor garip gönlüm  	VOCAL_SECTION

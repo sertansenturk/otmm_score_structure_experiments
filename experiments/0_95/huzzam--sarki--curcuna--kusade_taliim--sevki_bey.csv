@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	31	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+32	61	ARANAĞME	B1	INSTRUMENTAL		ARANAGME
+62	100	VOCAL_SECTION	C1	B1	Küşade taliim hem bahtım uygun  	VOCAL_SECTION
+101	141	VOCAL_SECTION	D1	B1	Küşade taliim hem bahtım uygun  	VOCAL_SECTION
+142	186	VOCAL_SECTION	E1	C1	Aman sâki bana hiç durma mey sun  	VOCAL_SECTION
+187	223	VOCAL_SECTION	F1	C1	Aman sâki bana hiç durma mey sun  	VOCAL_SECTION
+224	271	VOCAL_SECTION	G1	D1	Gamım yok zevk_u şevkim hadden efzun  	VOCAL_SECTION
+272	321	VOCAL_SECTION	H1	D1	Gamım yok zevk_u şevkim hadden efzun  	VOCAL_SECTION
+322	366	VOCAL_SECTION	E1	C1	Aman sâki bana hiç durma mey sun  	VOCAL_SECTION
+367	396	VOCAL_SECTION	I1	C1	Aman sâki bana hiç durma mey sun  	VOCAL_SECTION

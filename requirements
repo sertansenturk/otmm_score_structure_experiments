@@ -1,0 +1,3 @@
+git+git@github.com:sertansenturk/fileoperations_python.git@8ac3e1988a7a26396c8ab34a9e3600fee75e0cc5#egg=fileoperations_python
+git+git@github.com:sertansenturk/symbtrdataextractor.git@b317535d8eae676461d61ee8d0d9f90050c8d9e5#egg=symbtrdataextractor
+pandas
