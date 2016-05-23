@@ -1,0 +1,4 @@
+[submodule "turkish_makam_section_dataset"]
+	path = turkish_makam_section_dataset
+	url = git@github.com:MTG/turkish_makam_section_dataset.git
+	branch = score_section
