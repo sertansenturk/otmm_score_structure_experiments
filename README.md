@@ -24,4 +24,6 @@ The submodule [turkish_makam_section_dataset](https://github.com/MTG/turkish_mak
 
 results.json stores the evaluation and the statistics of the experiments.
 
+To run the experiments you have to install Jupyter notebook and the [requirements](https://github.com/sertansenturk/otmm-score-structure-experiments/blob/master/requirements).
+
 For additional information please contact the authors.
