@@ -5,7 +5,7 @@ This repository contains the experiments to find the optimal melodic and lyrics 
 
 Şentürk, S., & Serra X. (2016). A method for structural analysis of Ottoman-Turkish makam music scores. In Proceedings of 6th International Workshop on Folk Music Analysis, (pp. XX–XX)., Dublin, Ireland.
 
-For the details of the experiments, please refer to the paper.
+For the details of the experiments, please refer to the paper. Please cite the publication above in any work using these experiments.
 
 The submodule [turkish_makam_section_dataset](https://github.com/MTG/turkish_makam_section_dataset/tree/score_section) stores the test scores in the SymbTr-txt format. The experiments folder have the experimental results and evaluation. Each folder in this folder stores the sections extracted from each score for the given threshold, e.g. folder "0_6" has the results obtained using a similarity threshold of 0.6 for both melodic and lyrical relationship computation. The extracted sections for each score are stored in a csv file, which has the same name as the SymbTr-name (makam--form--usul--name--composer) of the analyzed score. The fields are:
 
