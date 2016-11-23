@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.168211.svg)](https://doi.org/10.5281/zenodo.168211)
+
 # otmm-score-structure-experiments
 Structure Analysis Experiments on Ottoman-Turkish Makam Music Scores
 
